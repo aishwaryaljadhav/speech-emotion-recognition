@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-This project detects human emotions (happy, sad, angry, neutral) from speech audio using machine learning and deep learning techniques.
+This project detects human emotions (happy, fear, disgust,  sad, angry) from speech audio using machine learning and deep learning techniques.
 
 ## Dataset
 The dataset used in this project can be downloaded from Kaggle:  
